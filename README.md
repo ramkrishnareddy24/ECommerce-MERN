@@ -2,7 +2,7 @@
 
 Welcome to our Ecommerce App's README! This application, developed using the MERN (MongoDB, Express, React, Node.js) stack, offers an immersive online shopping experience with both user and admin panels. Below are some key highlights:
 
-App UI Images in **screenshots** folder.
+###App inteface Images in **screenshots** folder.
 
 ### Features:
 
